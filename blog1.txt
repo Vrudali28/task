@@ -1,5 +1,4 @@
-
-         Difference between HTTP/1.1 and HTTP/2
+Difference between HTTP/1.1 and HTTP/2
      
             Introduction:
             The world of web development has seen a significant evolution in recent years, and the advancements in web protocols have played a crucial role in shaping the way we experience the internet. One such transformation is the shift from HTTP/1.1 to HTTP/2, marking a milestone in the efficiency and speed of web communication. In this blog post, we will delve into the key differences between HTTP/1.1 and HTTP/2, exploring how these changes have enhanced the performance of websites and user experience.
